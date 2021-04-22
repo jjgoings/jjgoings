@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there, you're cool. 😎  
+
+<p align="center">
+<a><img src="./cool.gif" width="400" /></a>
+</p>
+
+### Welcome!
 
 <!--
 **jjgoings/jjgoings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
