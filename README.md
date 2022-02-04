@@ -1,7 +1,7 @@
-### Hey there, you're cool. 😎  
+### Well, hello there. 
 
 <p align="center">
-<a><img src="./cool.gif" width="250" /></a>
+<a><img src="./monkey.gif" width="250" /></a>
 </p>
 
 <!--
