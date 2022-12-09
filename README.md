@@ -4,6 +4,8 @@
 <a><img src="./monkey.gif" width="250" /></a>
 </p>
 
+Unsolicited advice: be the person to pronounce "meow" in "homeowner".
+
 <!--
 **jjgoings/jjgoings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
